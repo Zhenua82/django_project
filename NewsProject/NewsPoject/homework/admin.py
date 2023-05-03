@@ -9,5 +9,3 @@ class HumanAdmin(admin.ModelAdmin):
 
 admin.site.register(Human, HumanAdmin)
 
-
-# Register your models here.
